@@ -36,16 +36,18 @@ Modernizar y automatizar la gestión administrativa de academias de baile median
 - Interfaz responsive adaptada a escritorio y móvil
 - Seguridad con JWT + BCrypt + CORS + cifrado TLS
 
-## Capturas de pantalla (carrusel)
-
-> Puedes subir tus capturas reales a la carpeta `/public/img` del repo y mostrarlas así:
+## Capturas de pantalla
 
 ```html
 <p align="center">
-  <img src="/public/img/login.png" width="600" />
-  <img src="/public/img/dashboard.png" width="600" />
-  <img src="/public/img/alumnos.png" width="600" />
-  <img src="/public/img/profesores.png" width="600" />
+  <img src="/public/img/Login.png" width="600" />
+  <img src="/public/img/InicioAdmin.png" width="600" />
+  <img src="/public/img/Alumnos.png" width="600" />
+  <img src="/public/img/Profesores.png" width="600" />
+  <img src="/public/img/Clases.png" width="600" />
+  <img src="/public/img/Pagos.png" width="600" />
+  <img src="/public/img/Asistencias.png" width="600" />
+  <img src="/public/img/EstilosNiveles.png" width="600" />
 </p>
 ```
 
