@@ -46,6 +46,10 @@ Modernizar y automatizar la gestión administrativa de academias de baile median
 |--------|-------|-------------|-----------------|
 | ![Clases](./public/img/Clases.png) | ![Pagos](./public/img/Pagos.png) | ![Asistencias](./public/img/Asistencias.png) | ![EstilosNiveles](./public/img/EstilosNiveles.png) |
 
+| Horario Mensual | Inicio Profesor | Clases Profesor | Asistencias Profesor |
+|------------------|------------------|------------------|-----------------------|
+| ![HorarioMensual](./public/img/HorarioMensual.png) | ![InicioProfesor](./public/img/InicioProfesor.png) | ![ClasesProfesor](./public/img/ClasesProfesor.png) | ![AsistenciasProfesor](./public/img/AsistenciasProfesor.png) |
+
 
 ## Autora
 
