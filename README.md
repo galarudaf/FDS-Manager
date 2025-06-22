@@ -38,18 +38,14 @@ Modernizar y automatizar la gestión administrativa de academias de baile median
 
 ## Capturas de pantalla
 
-```html
-<p align="center">
-  <img src="/public/img/Login.png" width="600" />
-  <img src="/public/img/InicioAdmin.png" width="600" />
-  <img src="/public/img/Alumnos.png" width="600" />
-  <img src="/public/img/Profesores.png" width="600" />
-  <img src="/public/img/Clases.png" width="600" />
-  <img src="/public/img/Pagos.png" width="600" />
-  <img src="/public/img/Asistencias.png" width="600" />
-  <img src="/public/img/EstilosNiveles.png" width="600" />
-</p>
-```
+![Login](./public/img/Login.png)
+![Inicio Admin](./public/img/InicioAdmin.png)
+![Alumnos](./public/img/Alumnos.png)
+![Profesores](./public/img/Profesores.png)
+![Clases](./public/img/Clases.png)
+![Pagos](./public/img/Pagos.png)
+![Asistencias](./public/img/Asistencias.png)
+![Estilos y Niveles](./public/img/EstilosNiveles.png)
 
 ## Autora
 
